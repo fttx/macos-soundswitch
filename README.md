@@ -1,3 +1,3 @@
 # macos-soundswitch
 
-Install: https://github.com/deweller/switchaudio-osx
+Install: https://github.com/fttx/switchaudio-osx
