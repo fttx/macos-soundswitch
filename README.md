@@ -1,3 +1,5 @@
 # macos-soundswitch
 
-Install: https://github.com/fttx/switchaudio-osx
+## Install
+
+brew install switchaudio-osx
