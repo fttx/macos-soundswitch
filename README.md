@@ -1,5 +1,5 @@
 # macos-soundswitch
 
-## Install
+## Dependencies
 
 brew install switchaudio-osx
